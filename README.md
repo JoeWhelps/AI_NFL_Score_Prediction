@@ -1,6 +1,6 @@
 A project completed by myself and Jack Decker in Javascript which gathers NFL team data and sends it as a prompt to multiple HuggingFace AI API models. 
 
-Primary used to test the capacities of the models, it can also be easily reconfigured to call Chatgbt or other more accurate models.
+Primary used to test the capacities of the models, it can also be easily reconfigured to call Chatgbt or other standard models.
 
 This project mainly functions as an interface and AI API call.
 
